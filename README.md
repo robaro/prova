@@ -2,4 +2,4 @@
 
 My first repository on GitHub
 
-This is teh first time I use GitHub
+This is the first time I use GitHub
